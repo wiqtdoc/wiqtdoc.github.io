@@ -149,7 +149,7 @@
         height: auto;
     }
     section.profile .profile_head .left {
-
+		
     }
     section.profile .profile_head .right {
         padding-top: 25px;
@@ -281,8 +281,12 @@
     }
     .workspace02 li span {
         background-color: #89ABE3;
+/*        background-color: #e3c189;*/
         color: #fff;
         margin-right: 10px;
         padding: 4px 2px 4px 8px;
+    }
+    .workspace02 li span.c {
+        background-color: #e3c189;
     }
 }
